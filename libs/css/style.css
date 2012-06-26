@@ -1,0 +1,93 @@
+
+root { 
+    display: block;
+}
+
+#chart4 {
+    width: 300px;
+    height: 300px;
+}
+
+.jqplot-table-legend-label {
+  white-space: nowrap;
+}
+
+.jqplot-yaxis {
+  margin-left:-80px !important;
+  width:80px !important;
+}
+
+#mainContainer {
+    height: 400px;
+    width: 1024px;
+    position: absolute;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 15%;
+    margin-top: 10%;
+    border: 3px;
+    border-right-style: solid !important;
+    border-left-style: solid !important;
+    border-bottom-style: solid !important;
+    border-top-style: solid !important;
+    border-right-width: 2px !important;
+    border-left-width: 2px !important;
+    border-bottom-width: 2px !important;
+    border-top-width: 2px !important;
+    border-right-color: blue !important;
+    border-left-color: blue !important;
+    border-bottom-color: blue !important;
+    border-top-color: blue !important;
+    
+}
+
+#hermesLogo {
+    margin-top: 1%;
+    margin-left: 10%;
+    position: relative;
+     width: 237px;
+    height: 350px;
+    
+}
+
+#loginForm {
+    position: relative;
+    margin-top: -25%;
+    margin-left: 40%;
+    background-color: #38B0DE;
+    height: 140px;
+    width: 300px;
+}
+
+#hLogo {
+    width: 237px;
+    height: 350px;
+}
+
+.login {
+    margin-left: 10px;
+}
+
+#flogin {
+    text-align: center;
+}
+
+#submitButton {
+    position: absolute;
+}
+
+#hpLogoImg {
+    width: 40px;
+    height: 40px;
+}
+
+#HPLogo {
+     margin-top: -22%;
+     margin-left: 93%;
+}
+
+#title {
+    margin-left: 40%;
+    margin-top: -7%;
+    position: relative;
+}

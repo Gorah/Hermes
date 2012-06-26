@@ -1,0 +1,113 @@
+#header > p {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    text-align: right;
+    margin-right: 20px;
+    
+}
+
+#header {
+     width:100%;
+     height: 70px;
+     float: left;
+     position:relative;
+     background-color: #38B0DE;
+     margin-bottom: 3px;
+     margin-top: 0;
+     padding-top: 0;
+     top: 0;
+     left: 0;
+     position: absolute;
+}
+
+#hpLogoImg {
+    width: 65px;
+    height: 65px;
+    margin-left: 13px;
+}
+
+#wrapper {
+    width: 100%;
+    margin-top: 70px;
+}
+
+#container {
+    position:relative;
+    float:left;
+    width: 89%;
+    height: 800px;
+}
+
+#menu {
+     position: relative;
+     float: left;
+     width: 10%;
+     background-color: #38B0DE;
+     margin-right: 1%;
+     margin-top: 5%;
+     height: 160px;
+     text-align: center;
+}
+
+.headings {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#chart1 {
+    width: 85%;
+    margin-left: 2%;
+    height: 185px;
+}
+
+#afterTATVol {
+    margin-top: 20px;
+    width: 85%;
+    margin-left: 2%;
+    height: 185px;
+}
+
+#fnaVol {
+    margin-top: 20px;
+    width: 85%;
+    margin-left: 2%;
+    height: 185px;
+}
+
+#textVolInfo {
+    float: left;
+    width: 90%;
+    height: 100px;
+/*    
+    border-right-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;*/
+    font-weight: bold;
+}
+
+.header {
+    
+    font-family: Arial,Helvetica,sans-serif;
+    color: white;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+}
+/*
+#tblMenu {
+    position: absolute;
+    margin-left: -16%;
+}*/
+
+.highlight {
+    
+    font-weight: bold;
+    font-size: 1.5em;
+    color: red;
+}
